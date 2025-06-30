@@ -57,7 +57,7 @@ Este projeto foi desenvolvido para otimizar a eficiência operacional de uma fá
 
 - Dashboards e Códigos Utilizados neste Projeto: <a href="https://github.com/RastaDados/Factory_Repair/tree/main/Dashboards">Acesse</a>
 
-- Querys(SQL): <a href="https://github.com/RastaDados/Factory_Repair/tree/main/Querys">Acesse</a>
+- Querys (SQL): <a href="https://github.com/RastaDados/Factory_Repair/tree/main/Querys">Acesse</a>
 <hr>
 
 ### ✍️ Autor
