@@ -49,16 +49,17 @@ Este projeto foi desenvolvido para otimizar a eficiência operacional de uma fá
 
 ### 🔗 Links
 
-- Dashboard do Power BI: Acesse
+- Dashboard do Power BI: <a href="https://app.powerbi.com/view?r=eyJrIjoiOTNmM2E2MGYtMTdiOC00MGY2LTk1ZDgtODk3OWY0ZGZhZWZhIiwidCI6IjBjM2IyYzljLWVlYTctNDJlZi04YTYzLTcwOWIyNjU5NzYxOCJ9">Acesse</a>
 
-- Dashboard em Python (Dash): Acesse
+- Análise em SQL: <a href="https://github.com/RastaDados/Factory_Repair/blob/main/An%C3%A1lise%20com%20SQL.md">Acesse</a>
 
-- Apresentação (Business Analysis): Acesse
+- Apresentação (Business Analysis): <a href="https://github.com/RastaDados/Factory_Repair/blob/main/An%C3%A1lise%20de%20Mercado.md">Acesse</a>
 
-- Dashboards e Códigos Utilizados neste Projeto: Acesse
+- Dashboards e Códigos Utilizados neste Projeto: <a href="https://github.com/RastaDados/Factory_Repair/tree/main/Dashboards">Acesse</a>
 
+- Querys(SQL): <a href="https://github.com/RastaDados/Factory_Repair/tree/main/Querys">Acesse</a>
 <hr>
 
 ### ✍️ Autor
 
-- Mateus França - Linkedin
+- Mateus França - <a href="https://www.linkedin.com/in/mateus-fran%C3%A7a-775b57113/">LinkedIn</a>
